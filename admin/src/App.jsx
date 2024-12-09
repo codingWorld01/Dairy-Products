@@ -12,7 +12,7 @@ import { Toaster } from 'react-hot-toast'
 
 const App = () => {
 
-  const url = 'http://localhost:4000'
+  const url = 'https://dairy-products-backend.onrender.com'
 
   return (
     <div>
